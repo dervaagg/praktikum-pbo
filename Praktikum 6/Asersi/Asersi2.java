@@ -7,7 +7,7 @@
 
 package Asersi;
 
-// 
+// class Lingkaran
 class Lingkaran {
     private double jariJari;
     public Lingkaran (double jariJari){
@@ -19,6 +19,7 @@ class Lingkaran {
     }
 }
 
+// class Asersi2
 public class Asersi2 {
     public static void main(String[] args) {
         double jariJari = 0;
